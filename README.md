@@ -5,13 +5,8 @@
 </div>
 
 <div align="center">
-
   
-```diff
-  
-+ **A coder and cinephile.**  
-+ Check me out on [Letterboxd](https://letterboxd.com/rhvetican/).
-
-```
+> **A coder and cinephile.**  
+> Check me out on [Letterboxd](https://letterboxd.com/rhvetican/).
 
 </div>
