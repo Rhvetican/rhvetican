@@ -6,7 +6,7 @@
 
 <div align="center">
   
-> **A coder and cinephile.**  
-> Check me out on [Letterboxd](https://letterboxd.com/rhvetican/).
+**A coder and cinephile.**  
+Check me out on <a href="https://letterboxd.com/rhvetican/" target="_blank">Letterboxd</a>.
 
 </div>
