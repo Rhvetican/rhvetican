@@ -5,6 +5,8 @@
 </div>
 
 <div align="center">
+
+  
 ```diff
   
 + **A coder and cinephile.**  
@@ -12,4 +14,4 @@
 
 ```
 
-
+</div>
