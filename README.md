@@ -6,7 +6,7 @@
 
 <div align="center">
   
-<span style="font-size: 1.5em;">**A coder and cinephile.**  
-Check me out on <a href="https://letterboxd.com/rhvetican/" target="_blank">Letterboxd</a>.</span>
+<span style="font-size: 2.5em;">**A coder and cinephile.**  
+Check me out on <a href="https://letterboxd.com/rhvetican/">letterboxd</a>.</span>
 
 </div>
